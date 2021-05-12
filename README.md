@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RikuXander
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI and Android app development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me rikuallrigg.scott@gmail.com
